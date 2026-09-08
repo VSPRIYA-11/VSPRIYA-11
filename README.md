@@ -46,16 +46,19 @@
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="languages"/>
+
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="backend"/>
+
 ![API Integration](https://img.shields.io/badge/API_Integration-0d1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
 
 **AI / ML & Gen AI**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="ai-ml"/>
+
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![LLM](https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=00D9FF)
 ![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=00D9FF)
@@ -74,6 +77,7 @@
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="tools"/>
+
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Colab](https://img.shields.io/badge/Google_Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
