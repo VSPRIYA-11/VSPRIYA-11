@@ -20,7 +20,6 @@
 
 <div align="center">
 
-`ABOUT` • `SKILLS` • `PROJECTS` • `EXPERIENCE` • `ACHIEVEMENTS` • `STATS` • `CONTACT`
 [About](#about-me) · [Skills](#tech-stack) · [Projects](#featured-projects) · [Experience](#experience) · [Achievements](#achievements) · [Stats](#github-stats) · [Contact](#contact)
 
 </div>
