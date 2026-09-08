@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PROFILE PHOTO PLACEHOLDER -->
-<img src="https://github.com/VSPRIYA-11/VSPRIYA-11/blob/main/SHANMU.png" width="150" height="150" style="border-radius:50%;" alt="profile photo placeholder"/>
+<img src="SHANMU.png" width="150" height="150" style="border-radius:50%;" alt="profile photo placeholder"/>
 
 <br/>
 
@@ -11,9 +11,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ADD_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](ADD_RESUME_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya-v-124377306?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-2d2d44?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
@@ -45,7 +45,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,sql,html,css&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql,html,css&theme=dark" alt="languages"/>
 
 **AI / ML / Data Science**
 
@@ -58,7 +58,7 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark" alt="backend"/>
 
 **Databases**
 
@@ -181,9 +181,9 @@ Until that workflow runs once, this image will not display.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya-v-124377306?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](vshanmugapriya2005@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ADD_EMAIL)
+[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](ADD_RESUME_LINK)
 
 </div>
 
