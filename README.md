@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PROFILE PHOTO PLACEHOLDER -->
-<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="profile photo"/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="150" height="150" style="border-radius:50%;object-fit:cover;object-position:center 20%;" alt="profile photo"/>
 
 <br/>
 
