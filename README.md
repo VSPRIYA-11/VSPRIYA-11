@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PROFILE PHOTO PLACEHOLDER -->
-<img src="SHANMU.png" width="150" height="150" style="border-radius:50%;" alt="profile photo placeholder"/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="profile photo"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya-v-124377306?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya-v-124377306)
 [![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-2d2d44?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -45,28 +45,38 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql,html,css&theme=dark" alt="languages"/>
-
-**AI / ML / Data Science**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![ML](https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=00D9FF)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-0d1117?style=for-the-badge&logo=googledataflow&logoColor=00D9FF)
-![Data Viz](https://img.shields.io/badge/Data_Visualization-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="languages"/>
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="backend"/>
+![API Integration](https://img.shields.io/badge/API_Integration-0d1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
 
-**Databases**
+**AI / ML & Gen AI**
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="databases"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="ai-ml"/>
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![LLM](https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=00D9FF)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=00D9FF)
 
-**Tools**
+**Data Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-0d1117?style=for-the-badge&logo=googledataflow&logoColor=00D9FF)
+![Data Viz](https://img.shields.io/badge/Data_Visualization-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
+
+**Big Data**
+
+![PySpark](https://img.shields.io/badge/PySpark_(Beginner)-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="tools"/>
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Colab](https://img.shields.io/badge/Google_Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 <br/>
 
@@ -117,7 +127,9 @@ Academic ML project classifying brain MRI scans (tumor / normal) using OpenCV pr
 
 <br/>
 
-> 🚧 **Voyager AI** — an AI-assisted Smart Travel Companion, currently in development with a teammate. Will be added here once published as a standalone repository.
+> 🚧 **Voyager AI** — an AI-assisted Smart Travel Companion built as a team project, integrating real-time map and weather APIs with multilingual chatbot support for personalized trip planning. Currently in development. Repository link will be added here once published.
+
+> 📰 **Fake News Detector** — a scalable fake news detection system using PySpark and machine learning to process large-scale text data. `PySpark` `Machine Learning` — *[not yet on GitHub]*
 
 <br/>
 
@@ -181,9 +193,9 @@ Until that workflow runs once, this image will not display.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ADD_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](ADD_RESUME_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya-v-124377306)
+[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
 
 </div>
 
