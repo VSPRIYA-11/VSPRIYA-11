@@ -45,7 +45,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql,html,css&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,sql,html,css&theme=dark" alt="languages"/>
 
 **AI / ML / Data Science**
 
@@ -58,7 +58,7 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="backend"/>
 
 **Databases**
 
