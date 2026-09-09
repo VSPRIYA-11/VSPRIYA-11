@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- PROFILE PHOTO PLACEHOLDER -->
-<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="150" height="150" style="border-radius:50%;object-fit:cover;object-position:center 20%;" alt="profile photo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F2340,100:00D9FF&height=200&section=header&text=SHANMUGA%20PRIYA%20V&fontSize=42&fontColor=00D9FF&fontAlignY=40&animation=fadeIn&desc=AI/ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=18&descColor=8AA9C9" width="100%"/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="140" height="140" style="border-radius:50%;object-fit:cover;object-position:center 20%;border:3px solid #00D9FF;margin-top:-90px;" alt="profile photo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=SHANMUGA+PRIYA+V;AI%2FML+%E2%80%A2+DATA+SCIENCE+%E2%80%A2+SOFTWARE+DEV" alt="Typing SVG" />
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=6C7086&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Data+Science+Student;Software+Developer;AI+Application+Builder;Problem+Solver" alt="Typing SVG" />
 
@@ -16,21 +15,20 @@
 [![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-2d2d44?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-</div>
-
-<div align="center">
+<br/>
 
 [About](#about-me) · [Skills](#tech-stack) · [Projects](#featured-projects) · [Experience](#experience) · [Achievements](#achievements) · [Stats](#github-stats) · [Contact](#contact)
-
-</div>
 
 <br/>
 
 > Final-year AI & Data Science student building practical AI/ML and software solutions using Python, SQL and modern development tools.
 
+</div>
+
 <br/>
 
-## About Me
+<a id="about-me"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=About%20Me&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 - 🎓 Final-year B.Tech AI & Data Science student, Velammal Engineering College
 - 💡 Interested in AI/ML and Data Science
@@ -40,7 +38,8 @@
 
 <br/>
 
-## Tech Stack
+<a id="tech-stack"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 **Languages**
 
@@ -83,7 +82,8 @@
 
 <br/>
 
-## Featured Projects
+<a id="featured-projects"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <table>
 <tr>
@@ -136,7 +136,8 @@ Academic ML project classifying brain MRI scans (tumor / normal) using OpenCV pr
 
 <br/>
 
-## Experience
+<a id="experience"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Experience&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <table>
 <tr>
@@ -159,7 +160,8 @@ UI/UX Design (Figma) — Voice-Controlled App Interface
 
 <br/>
 
-## Achievements
+<a id="achievements"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Achievements&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 🥇 **1st Prize** — Project Expo, Chakravyuha'25
 🥇 **1st Prize** — Paper Presentation, TEZAS-2K26
@@ -167,32 +169,31 @@ UI/UX Design (Figma) — Voice-Controlled App Interface
 
 <br/>
 
-## GitHub Stats
+<a id="github-stats"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=VSPRIYA-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSPRIYA-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="Top Languages" height="165"/>
 
-</div>
-
 <br/>
 
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VSPRIYA-11&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
+
+<br/><br/>
 
 <!--
-SETUP NOTE: The animation below requires a one-time GitHub Actions setup.
-Create a repo named exactly "VSPRIYA-11" (a special profile repo) if you don't have one,
-then add the workflow from https://github.com/Platane/snk to generate this file automatically.
-Until that workflow runs once, this image will not display.
+SETUP NOTE: Requires the GitHub Actions snake workflow to be set up in this repo (already done).
 -->
-<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
 <br/>
 
-## Contact
+<a id="contact"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Contact&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -200,10 +201,14 @@ Until that workflow runs once, this image will not display.
 [![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
 
-</div>
+<br/><br/>
+
+<sub>Open to AI/ML, Data Science, and Software Development opportunities · 2027 batch</sub>
 
 <br/>
 
-<div align="center">
-<sub>Open to AI/ML, Data Science, and Software Development opportunities · 2027 batch</sub>
+<img src="https://komarev.com/ghpvc/?username=VSPRIYA-11&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0F2340,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
