@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F2340,100:00D9FF&height=200&section=header&text=SHANMUGA%20PRIYA%20V&fontSize=42&fontColor=00D9FF&fontAlignY=40&animation=fadeIn&desc=AI/ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=18&descColor=8AA9C9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2A1245,100:B026FF&height=200&section=header&text=SHANMUGA%20PRIYA%20V&fontSize=42&fontColor=B026FF&fontAlignY=40&animation=fadeIn&desc=AI/ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=18&descColor=8AA9C9" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="140" height="140" style="border-radius:50%;object-fit:cover;object-position:center 20%;border:3px solid #00D9FF;margin-top:-90px;" alt="profile photo"/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="140" height="140" style="border-radius:50%;object-fit:cover;object-position:center 20%;border:3px solid #B026FF;margin-top:-90px;" alt="profile photo"/>
 
 <br/><br/>
 
@@ -11,8 +11,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya-v-124377306)
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=B026FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-2d2d44?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 <br/>
@@ -28,7 +28,7 @@
 <br/>
 
 <a id="about-me"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=About%20Me&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=About%20Me&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 - 🎓 Final-year B.Tech AI & Data Science student, Velammal Engineering College
 - 💡 Interested in AI/ML and Data Science
@@ -39,33 +39,33 @@
 <br/>
 
 <a id="tech-stack"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="languages"/>
 
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=B026FF)
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="backend"/>
 
-![API Integration](https://img.shields.io/badge/API_Integration-0d1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
+![API Integration](https://img.shields.io/badge/API_Integration-0d1117?style=for-the-badge&logo=fastapi&logoColor=B026FF)
 
 **AI / ML & Gen AI**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="ai-ml"/>
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![LLM](https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=00D9FF)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=00D9FF)
+![LLM](https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=B026FF)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=B026FF)
 
 **Data Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-0d1117?style=for-the-badge&logo=googledataflow&logoColor=00D9FF)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-0d1117?style=for-the-badge&logo=googledataflow&logoColor=B026FF)
 ![Data Viz](https://img.shields.io/badge/Data_Visualization-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
 
 **Big Data**
@@ -83,7 +83,7 @@
 <br/>
 
 <a id="featured-projects"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <table>
 <tr>
@@ -137,7 +137,7 @@ Academic ML project classifying brain MRI scans (tumor / normal) using OpenCV pr
 <br/>
 
 <a id="experience"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Experience&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Experience&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <table>
 <tr>
@@ -161,7 +161,7 @@ UI/UX Design (Figma) — Voice-Controlled App Interface
 <br/>
 
 <a id="achievements"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Achievements&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Achievements&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 🥇 **1st Prize** — Project Expo, Chakravyuha'25
 🥇 **1st Prize** — Paper Presentation, TEZAS-2K26
@@ -170,12 +170,12 @@ UI/UX Design (Figma) — Voice-Controlled App Interface
 <br/>
 
 <a id="github-stats"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VSPRIYA-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSPRIYA-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VSPRIYA-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b026ff&icon_color=b026ff" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSPRIYA-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b026ff" alt="Top Languages" height="165"/>
 
 <br/>
 
@@ -193,13 +193,13 @@ SETUP NOTE: Requires the GitHub Actions snake workflow to be set up in this repo
 <br/>
 
 <a id="contact"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9FF&height=70&section=header&text=Contact&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Contact&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmuga-priya-v-124377306)
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vshanmugapriya2005@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=B026FF)](https://drive.google.com/file/d/11BhcGEqe1wJlq3oWGgy6QRc9w0fk2isw/view?usp=sharing)
 
 <br/><br/>
 
@@ -207,8 +207,8 @@ SETUP NOTE: Requires the GitHub Actions snake workflow to be set up in this repo
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=VSPRIYA-11&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=VSPRIYA-11&style=for-the-badge&color=B026FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0F2340,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:2A1245,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
