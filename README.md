@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2A1245,100:B026FF&height=200&section=header&text=SHANMUGA%20PRIYA%20V&fontSize=42&fontColor=B026FF&fontAlignY=40&animation=fadeIn&desc=AI/ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=18&descColor=8AA9C9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2A1245,100:B026FF&height=200&section=header&text=SHANMUGA%20PRIYA%20V&fontSize=42&fontColor=B026FF&fontAlignY=40&animation=twinkling&desc=AI/ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=18&descColor=8AA9C9" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="140" height="140" style="border-radius:50%;object-fit:cover;object-position:center 20%;border:3px solid #B026FF;margin-top:-90px;" alt="profile photo"/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="140" height="140" style="border-radius:50%;object-fit:cover;object-position:center 20%;border:3px solid #6cfcb4c4;margin-top:-90px;" alt="profile photo"/>
 
 <br/><br/>
 
@@ -25,10 +25,12 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B026FF,100:0D1117&height=3&animation=twinkling" width="100%"/>
+
 <br/>
 
 <a id="about-me"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=About%20Me&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=About%20Me&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 - 🎓 Final-year B.Tech AI & Data Science student, Velammal Engineering College
 - 💡 Interested in AI/ML and Data Science
@@ -36,10 +38,12 @@
 - 🧠 Exploring intelligent problem-solving systems
 - 📚 Continuously improving technical and analytical skills
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B026FF,100:0D1117&height=3&animation=twinkling" width="100%"/>
+
 <br/>
 
 <a id="tech-stack"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 **Languages**
 
@@ -80,10 +84,12 @@
 ![Colab](https://img.shields.io/badge/Google_Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B026FF,100:0D1117&height=3&animation=twinkling" width="100%"/>
+
 <br/>
 
 <a id="featured-projects"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 <table>
 <tr>
@@ -134,10 +140,12 @@ Academic ML project classifying brain MRI scans (tumor / normal) using OpenCV pr
 
 > 📰 **Fake News Detector** — a scalable fake news detection system using PySpark and machine learning to process large-scale text data. `PySpark` `Machine Learning` — *[not yet on GitHub]*
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B026FF,100:0D1117&height=3&animation=twinkling" width="100%"/>
+
 <br/>
 
 <a id="experience"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Experience&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Experience&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 <table>
 <tr>
@@ -158,19 +166,23 @@ UI/UX Design (Figma) — Voice-Controlled App Interface
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B026FF,100:0D1117&height=3&animation=twinkling" width="100%"/>
+
 <br/>
 
 <a id="achievements"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Achievements&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Achievements&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 🥇 **1st Prize** — Project Expo, Chakravyuha'25
 🥇 **1st Prize** — Paper Presentation, TEZAS-2K26
 🥉 **3rd Prize** — Pressure & Treasure, TEZAS-2K26
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B026FF,100:0D1117&height=3&animation=twinkling" width="100%"/>
+
 <br/>
 
 <a id="github-stats"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -190,10 +202,12 @@ SETUP NOTE: Requires the GitHub Actions snake workflow to be set up in this repo
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B026FF,100:0D1117&height=3&animation=twinkling" width="100%"/>
+
 <br/>
 
 <a id="contact"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Contact&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:B026FF&height=70&section=header&text=Contact&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -211,4 +225,4 @@ SETUP NOTE: Requires the GitHub Actions snake workflow to be set up in this repo
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:2A1245,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:2A1245,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
