@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2A1245,100:B026FF&height=200&section=header&text=SHANMUGA%20PRIYA%20V&fontSize=42&fontColor=B026FF&fontAlignY=40&animation=twinkling&desc=AI/ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=18&descColor=8AA9C9" width="100%"/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/hero-banner-v2.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="140" height="140" style="border-radius:50%;object-fit:cover;object-position:center 20%;border:3px solid #6cfcb4c4;margin-top:-90px;" alt="profile photo"/>
+<img src="https://raw.githubusercontent.com/VSPRIYA-11/VSPRIYA-11/main/SHANMU.png" width="140" height="140" style="border-radius:50%;object-fit:cover;object-position:center 20%;border:3px solid #B026FF;margin-top:-90px;" alt="profile photo"/>
 
 <br/><br/>
 
-<img src="hero-banner-v2.svg" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=6C7086&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Data+Science+Student;Software+Developer;AI+Application+Builder;Problem+Solver" alt="Typing SVG" />
 
 <br/>
 
